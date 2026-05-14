@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Malak Esam</h1>
+<h3 align="center">Data Analyst | SQL • Power BI • Python</h3>
 
-<!--
-**malak2304/malak2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Computer Science Student at HTI
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🧠 Skilled in SQL, Power BI, Python, and Data Modeling
+- 📈 Building dashboards and turning data into insights
+- 🌱 Currently improving my analytics and visualization skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+- 🚲 Cyclistic Bike-Share Analysis
+- 🏢 SQL Data Warehouse Project
+- 📊 Customer Product Sales Analysis
+
+---
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/malak-esam-b13116310/)
