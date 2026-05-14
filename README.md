@@ -75,13 +75,6 @@ Passionate about transforming raw data into actionable insights through analytic
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/malak-esam-b13116310/
 - 📧 Email: malak.esam2304@gmail.com
 
----
-
-## 📈 GitHub Stats
-
-![Malak's GitHub stats](https://github-readme-stats.vercel.app/api?username=malak2304&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malak2304&layout=compact)
