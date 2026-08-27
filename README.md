@@ -9,7 +9,7 @@ Passionate about transforming raw data into actionable insights through analytic
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Student at HTI (2022 – 2026)
+- 🎓 Computer Science Graduate from HTI (2022 – 2026)
 - 📊 Skilled in SQL, Power BI, Python, and Data Modeling
 - 🏗️ Interested in Data Analytics, Business Intelligence, and Data Engineering
 - 📈 Experienced in building dashboards, performing EDA, and developing ETL workflows
