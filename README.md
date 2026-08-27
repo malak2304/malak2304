@@ -43,7 +43,6 @@ Passionate about transforming raw data into actionable insights through analytic
 ![Star Schema](https://img.shields.io/badge/Star%20Schema-00599C?style=for-the-badge&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-68217A?style=for-the-badge&logoColor=white)
 
 ### Python Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
