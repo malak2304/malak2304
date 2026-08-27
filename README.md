@@ -73,30 +73,258 @@ Passionate about transforming raw data into actionable insights through analytic
 
 ## 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ SQL Data Warehouse
+
+**End-to-End Data Warehouse using SQL Server**
+
+- Built a **3-layer architecture**: Bronze → Silver → Gold
+- Integrated **CRM & ERP** data sources
+- Designed a **Star Schema** with fact & dimension views
+- Implemented **14+ data quality rules**
+- Automated ingestion using **BULK INSERT & Stored Procedures**
+- Optimized queries using **Indexing & Schema Refinement**
+
+**Tech Stack:**  
+`SQL Server` `T-SQL` `ETL` `Data Warehousing` `Data Modeling` `Star Schema`
+
+[🔗 View Project](YOUR_PROJECT_LINK)
+
+</td>
+
+<td width="50%">
+
+### 📊 EDA Sales Analysis
+
+**Customer & Product Sales Analysis using SQL**
+
+- Performed **Exploratory Data Analysis** using SQL
+- Analyzed **customer behavior & product performance**
+- Identified **sales trends and patterns**
+- Developed **KPI & ranking analysis**
+- Implemented **customer segmentation**
+- Built reporting views for **Business Intelligence**
+
+**Tech Stack:**  
+`SQL` `Data Analysis` `EDA` `KPI Analysis` `Segmentation` `Time Series`
+
+[🔗 View Project](YOUR_PROJECT_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🚲 Cyclistic Bike-Share Analysis
-- Analyzed 100k+ records using SQL, Python, and Power BI
-- Identified customer behavior patterns and business insights
-- Built KPI dashboards and visual reports
 
-### 🏢 SQL Data Warehouse Project
-- Developed a SQL-based data warehouse integrating multiple business sources
-- Designed dimensional models and ETL pipelines using SSIS
-- Improved query performance through optimization and indexing
+**Data-Driven Analysis of Bike-Share Customer Behavior**
 
-### 📊 Customer Product Sales Analysis
-- Performed exploratory data analysis on 50k+ sales records
-- Used joins, CTEs, aggregations, and window functions
-- Identified top-performing products and customer trends
+- Analyzed **100K+ bike-share records**
+- Compared behavior between **user groups**
+- Performed data **cleaning & transformation**
+- Built interactive **Power BI dashboards**
+- Created **5+ KPIs** to track customer behavior
+- Generated **actionable business insights**
+
+**Tech Stack:**  
+`SQL` `Python` `Power BI` `Data Analysis` `Data Visualization`
+
+[🔗 View Project](YOUR_PROJECT_LINK)
+
+</td>
+
+<td width="50%">
+
+### 🔍 More Projects
+
+I'm continuously building projects focused on:
+
+- 📈 Data Analysis & Visualization
+- 🗄️ Data Warehousing
+- 🔄 ETL & Data Engineering
+- 📊 Business Intelligence
+- 🐍 Python Analytics
+- 📐 Statistics & Data-Driven Insights
+
+**More projects coming soon...**
+
+[🔗 Explore My Repositories](https://github.com/malak2304)
+
+</td>
+</tr>
+</table>
 
 ---
+## 🎓 Certifications
 
-## 📜 Certifications
+<table>
+<tr>
+<td width="50%">
 
-- Google Data Analytics — Google
-- Applied Statistics for Data Analytics — DeepLearning.AI
-- Data Analyst in Power BI — DataCamp
-- Introduction to Data Modeling in Snowflake — DataCamp
-- SQL (Intermediate) — HackerRank
+### 📊 Google Data Analytics Professional Certificate
+
+**Coursera**
+
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+- Analytical Thinking
+- Data-Driven Decision Making
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+
+<td width="50%">
+
+### 📈 Data Analyst in Power BI
+
+**DataCamp**
+
+- Power BI
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Data Analysis
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📐 Applied Statistics for Data Analytics
+
+**DeepLearning.AI**
+
+- Applied Statistics
+- Statistical Analysis
+- Probability
+- Data Interpretation
+- Analytical Reasoning
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud Computing Fundamentals
+
+**IBM**
+
+- Cloud Computing Fundamentals
+- Cloud Concepts
+- Cloud Technologies
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Introduction to Data Modeling in Snowflake
+
+**DataCamp**
+
+- Data Modeling
+- Snowflake
+- Data Warehousing
+- Database Concepts
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+
+<td width="50%">
+
+### 🗃️ Database Design
+
+**DataCamp**
+
+- Database Design
+- Data Modeling
+- Relational Databases
+- Database Concepts
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔄 Introduction to dbt
+
+**DataCamp**
+
+- dbt
+- Data Transformation
+- Data Engineering
+- Modern Data Stack
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+
+<td width="50%">
+
+### 💻 SQL (Intermediate)
+
+**HackerRank**
+
+- SQL
+- Querying
+- Data Manipulation
+- Advanced SQL Concepts
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 The Power of Statistics
+
+**Coursera**
+
+- Statistics
+- Data Analysis
+- Statistical Thinking
+- Data Interpretation
+
+[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
+
+</td>
+
+<td width="50%">
+
+### 📜 More Certifications
+
+Continuously learning and expanding my skills in:
+
+- 📊 Data Analytics
+- 🗄️ Data Engineering
+- 📈 Business Intelligence
+- ☁️ Cloud Computing
+- 📐 Statistics
+- 🐍 Python & SQL
+
+</td>
+</tr>
+</table>
 
 ---
 
