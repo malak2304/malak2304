@@ -90,7 +90,7 @@ Passionate about transforming raw data into actionable insights through analytic
 **Tech Stack:**  
 `SQL Server` `T-SQL` `ETL` `Data Warehousing` `Data Modeling` `Star Schema`
 
-[🔗 View Project](YOUR_PROJECT_LINK)
+[🔗 View Project](https://github.com/malak2304/SQL_DWH_Project)
 
 </td>
 
@@ -110,7 +110,7 @@ Passionate about transforming raw data into actionable insights through analytic
 **Tech Stack:**  
 `SQL` `Data Analysis` `EDA` `KPI Analysis` `Segmentation` `Time Series`
 
-[🔗 View Project](YOUR_PROJECT_LINK)
+[🔗 View Project](https://github.com/malak2304/EDA-project)
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ Passionate about transforming raw data into actionable insights through analytic
 **Tech Stack:**  
 `SQL` `Python` `Power BI` `Data Analysis` `Data Visualization`
 
-[🔗 View Project](YOUR_PROJECT_LINK)
+[🔗 View Project](https://github.com/malak2304/Cyclistic-Bike-Share-Analysis)
 
 </td>
 
@@ -175,7 +175,6 @@ I'm continuously building projects focused on:
 - Analytical Thinking
 - Data-Driven Decision Making
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 
@@ -191,7 +190,6 @@ I'm continuously building projects focused on:
 - Business Intelligence
 - Data Analysis
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 </tr>
@@ -209,7 +207,6 @@ I'm continuously building projects focused on:
 - Data Interpretation
 - Analytical Reasoning
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 
@@ -223,7 +220,6 @@ I'm continuously building projects focused on:
 - Cloud Concepts
 - Cloud Technologies
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 </tr>
@@ -240,7 +236,6 @@ I'm continuously building projects focused on:
 - Data Warehousing
 - Database Concepts
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 
@@ -255,7 +250,6 @@ I'm continuously building projects focused on:
 - Relational Databases
 - Database Concepts
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 </tr>
@@ -272,7 +266,6 @@ I'm continuously building projects focused on:
 - Data Engineering
 - Modern Data Stack
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 
@@ -287,7 +280,6 @@ I'm continuously building projects focused on:
 - Data Manipulation
 - Advanced SQL Concepts
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 </tr>
@@ -304,7 +296,6 @@ I'm continuously building projects focused on:
 - Statistical Thinking
 - Data Interpretation
 
-[🔗 View Certificate](YOUR_CERTIFICATE_LINK)
 
 </td>
 
